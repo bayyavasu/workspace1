@@ -1,0 +1,6 @@
+package methodINNERCLASS;
+
+class A
+{
+	
+}

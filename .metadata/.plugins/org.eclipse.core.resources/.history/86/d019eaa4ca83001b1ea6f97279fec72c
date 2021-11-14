@@ -1,0 +1,15 @@
+package xmllisttojava;
+
+import java.util.ArrayList;
+
+public class listtt {
+private ArrayList<products> alp;
+
+public ArrayList<products> getAlp() {
+	return alp;
+}
+
+public void setAlp(ArrayList<products> alp) {
+	this.alp = alp;
+}
+}
